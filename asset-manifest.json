@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Savranskyi/goit-react-hw-01-components/static/css/main.b0dbf220.css",
+    "main.js": "/Savranskyi/goit-react-hw-01-components/static/js/main.b9372f7c.js",
+    "index.html": "/Savranskyi/goit-react-hw-01-components/index.html",
+    "main.b0dbf220.css.map": "/Savranskyi/goit-react-hw-01-components/static/css/main.b0dbf220.css.map",
+    "main.b9372f7c.js.map": "/Savranskyi/goit-react-hw-01-components/static/js/main.b9372f7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0dbf220.css",
+    "static/js/main.b9372f7c.js"
+  ]
+}
